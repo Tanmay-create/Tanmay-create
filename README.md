@@ -1,23 +1,49 @@
 # 👋 Hi, I'm Tanmay Mandal!
 
-### 💻 Full-Stack Developer | B.Tech CSE | Backend Enthusiast
+### 💻 Software Developer | Full-Stack Developer | B.Tech CSE
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=Tanmay-create&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
 ---
 
 ## 🚀 About Me
 
-I'm a **Computer Science & Engineering student** and a passionate **Full-Stack Developer** who enjoys building practical, scalable and user-focused applications.
+I'm a **Software Developer(Full Stack Developer)** passionate about building practical, scalable and user-focused applications.
 
-- 🔭 Currently building **full-stack applications with NestJS, Next.js & PostgreSQL**
-- 🌱 Continuously improving my skills in **Backend Architecture, System Design & Cloud**
-- 💻 Experienced with **MERN, REST APIs, Authentication, RBAC & Real-Time Applications**
-- 🧠 Interested in **Software Engineering, Backend Development & Scalable Systems**
-- 🤝 Open to collaborating on interesting software projects
-- 🎯 Goal: Become a strong **Full-Stack / Backend Engineer**
+I enjoy working across the stack — from creating responsive frontend experiences to designing backend services, APIs, authentication systems and database architectures.
+
+* 💼 Currently working as a **Software Developer**
+* 🔭 Working with **NestJS, Next.js, TypeScript & PostgreSQL**
+* 🌱 Continuously improving **Backend Architecture, RBAC System Design & Cloud**
+* 💻 Project Experience with **MERN, REST APIs, Authentication, RBAC & Real-Time Applications**
+* 🧠 Interested in **Backend Engineering, Scalable Systems & Software Architecture**
+* 🧩 Enjoy solving problems using **Data Structures & Algorithms**
+* 🤝 Open to collaborating on interesting software projects
+* 🎯 Focused on growing into a strong **Full-Stack / Backend Engineer**
+
+---
+
+## 💼 Professional Experience
+
+### 👨‍💻 Full Stack Developer Intern
+
+**2026 – Present**
+
+Working on modern full-stack applications while gaining hands-on experience with production-oriented software development and backend engineering.
+
+**Current Technology Stack**
+
+* ⚙️ **NestJS** for backend development
+* ⚛️ **Next.js** for frontend applications
+* 🟦 **TypeScript** across the application stack
+* 🗄️ **PostgreSQL & TypeORM** for database development
+* 🔐 Authentication, authorization and **RBAC**
+* 🔌 REST API development and integration
+* 🏗️ Modular and maintainable backend architecture
+* 🧪 Debugging, testing and improving application workflows
+* 🔄 Working with Git-based development workflows
 
 ---
 
@@ -32,7 +58,7 @@ I'm a **Computer Science & Engineering student** and a passionate **Full-Stack D
 ### ⚙️ Backend
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,python,django,fastapi" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,fastapi" />
 </p>
 
 ### 🗄️ Database & Infrastructure
@@ -45,90 +71,201 @@ I'm a **Computer Science & Engineering student** and a passionate **Full-Stack D
 
 ## 🚀 Featured Projects
 
-### 🏢 Placecom — Placement Management Platform
+### 🍔 Mealoraq — Food Delivery Platform
 
-Currently building a full-stack platform focused on managing placement/recruitment workflows.
+A multi-role food delivery platform connecting **customers, shop owners and delivery partners** with real-time order and delivery management.
 
-**Tech Stack:**  
-Next.js • NestJS • TypeScript • PostgreSQL • TypeORM • REST APIs
+**Tech Stack**
 
-**Focus Areas:**
+`React` `Node.js` `Express` `MongoDB` `Socket.IO` `Razorpay`
 
-- 🔐 Authentication & Authorization
-- 👥 Role-Based Access Control
-- 🏗️ Modular Backend Architecture
-- 📋 Recruitment & Placement Workflows
-- 🗄️ PostgreSQL Database
-- 🔌 REST API Architecture
+**Features**
+
+* 👤 Customer / Shop Owner / Delivery Partner roles
+* 🔐 JWT-based Role-Based Access Control
+* 📦 Real-time order updates
+* 📍 Live delivery location tracking
+* ⚡ Socket.IO real-time communication
+* 💳 Razorpay payment integration
+* 📱 OTP-based order verification
+* 🗺️ Location-based delivery partner assignment
 
 ---
 
 ### 🛒 Shoptera — E-Commerce Platform
 
-A full-stack e-commerce platform with modern shopping and administration features.
+A full-stack e-commerce platform with modern shopping, administration and payment capabilities.
 
-**Tech Stack:**  
-React • Redux Toolkit • Tailwind CSS • Node.js • Express • MongoDB • JWT • Firebase • Razorpay
+**Tech Stack**
 
-**Features:**
+`React` `Redux Toolkit` `Tailwind CSS` `Node.js` `Express` `MongoDB` `JWT` `Firebase` `Razorpay`
 
-- 🛍️ Product management
-- 🔐 Authentication & authorization
-- 👨‍💼 Admin panel
-- 💳 Razorpay payment integration
-- 🔎 Voice search
-- 🔥 Firebase authentication
+**Features**
+
+* 🛍️ Product management
+* 👨‍💼 Admin dashboard
+* 🔐 Authentication & authorization
+* 💳 Razorpay payment integration
+* 🔎 Voice search
+* 🔥 Firebase authentication
+* 📦 Product CRUD operations
 
 ---
 
 ### 💬 Echo — Real-Time Chat Application
 
-A MERN-based real-time communication platform.
+A MERN-based real-time communication platform designed for instant messaging and user interaction.
 
-**Tech Stack:**  
-React • Vite • Node.js • Express • MongoDB • Socket.IO • JWT
+**Tech Stack**
 
-**Features:**
+`React` `Vite` `Node.js` `Express` `MongoDB` `Socket.IO` `JWT`
 
-- 💬 Real-time messaging
-- 🔐 Secure authentication
-- 👤 User profiles
-- ⚡ Socket.IO communication
-- 🍪 Cookie-based authentication
+**Features**
 
----
-
-### 🍔 Mealoraq — Food Delivery Platform
-
-A multi-role food delivery application connecting customers, shop owners and delivery partners.
-
-**Tech Stack:**  
-React • TypeScript • Node.js • Express • MongoDB • Socket.IO • Razorpay
-
-**Features:**
-
-- 👤 Customer / Shop Owner / Delivery Partner roles
-- 📦 Real-time order updates
-- 📍 Live delivery location tracking
-- 🔐 JWT-based RBAC
-- 💳 Razorpay integration
-- 📱 OTP-based order verification
+* 💬 Real-time messaging
+* ⚡ Socket.IO communication
+* 🔐 Secure authentication
+* 👤 User profiles
+* 🍪 Cookie-based authentication
+* 🔄 Persistent authentication state
 
 ---
 
-## 💡 Currently Building
+## 🧠 Problem Solving & DSA
+
+I regularly work on **Data Structures & Algorithms** to strengthen my problem-solving skills and prepare for technical interviews.
+
+<p align="left">
+
+<a href="https://leetcode.com/u/tanmaylyn285/">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+</a>
+
+<a href="https://codeforces.com/profile/tanmaylyn285">
+<img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" />
+</a>
+
+<a href="https://neetcode.io/practice/practice/neetcode150">
+<img src="https://img.shields.io/badge/NeetCode-111111?style=for-the-badge&logo=leetcode&logoColor=white" />
+</a>
+
+</p>
+
+### 📚 Current DSA Focus
+
+* Arrays & Hashing
+* Two Pointers
+* Sliding Window
+* Stack
+* Binary Search
+* Linked Lists
+* Trees
+* Graphs
+* Heaps / Priority Queues
+* Dynamic Programming
+* Greedy Algorithms
+* Backtracking
+
+---
+
+## 💡 Currently Learning & Improving
 
 ```text
 ┌──────────────────────────────────────────────┐
-│          Full-Stack Development              │
+│          Software Engineering Journey        │
 ├──────────────────────────────────────────────┤
 │                                              │
 │  Frontend       → Next.js / React            │
 │  Backend        → NestJS / Node.js           │
+│  Language       → TypeScript                 │
 │  Database       → PostgreSQL / MongoDB       │
-│  Architecture   → REST API / RBAC            │
 │  ORM            → TypeORM                    │
+│  Architecture   → REST API / RBAC            │
+│  Security       → Authentication / JWT       │
 │  DevOps         → Docker / AWS               │
 │  Real-Time      → WebSockets / Socket.IO     │
+│  DSA            → LeetCode / NeetCode        │
 │                                              │
 └──────────────────────────────────────────────┘
+```
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=Tanmay-create&show_icons=true&theme=github_dark&hide_border=true"
+    height="170"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tanmay-create&layout=compact&theme=github_dark&hide_border=true"
+    height="170"
+  />
+</p>
+
+---
+
+## 🔥 Contribution Streak
+
+<p align="center">
+  <img
+    src="https://streak-stats.demolab.com?user=Tanmay-create&theme=github-dark-blue&hide_border=true"
+  />
+</p>
+
+---
+
+## 📈 GitHub Activity
+
+<p align="center">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=Tanmay-create&theme=github-compact&hide_border=true"
+  />
+</p>
+
+---
+
+## 🤝 Let's Connect
+
+I'm always interested in discussing software development, interesting projects, collaboration and new opportunities.
+
+<p align="left">
+
+<a href="https://www.linkedin.com/in/tanmay-mandal-359621294/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="mailto:tanmaylyn285@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<a href="https://github.com/Tanmay-create">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+</p>
+
+---
+
+## 🎯 2026 Goals
+
+* 🚀 Build production-ready full-stack applications
+* 🏗️ Improve backend architecture & system design
+* 🔐 Strengthen authentication, authorization & application security
+* ☁️ Improve Docker & AWS skills
+* 🧠 Become stronger at Data Structures & Algorithms
+* 💼 Grow as a professional software engineer
+* 🌍 Prepare for international software engineering opportunities
+
+---
+
+## ⚡ Fun Fact
+
+> I don't just want to write code — I want to build things that actually matter.
+
+---
+
+<p align="center">
+  ⭐ Thanks for visiting my profile!
+</p>
