@@ -27,7 +27,7 @@ I enjoy working across the stack — from creating responsive frontend experienc
 
 ## 💼 Professional Experience
 
-### 👨‍💻 Full Stack Developer Intern
+### 👨‍💻 Full Stack Developer Intern(Almabay Networks Pvt. Ltd.)
 
 **2026 – Present**
 
