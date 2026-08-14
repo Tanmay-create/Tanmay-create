@@ -137,7 +137,7 @@ I regularly work on **Data Structures & Algorithms** to strengthen my problem-so
 
 <p align="left">
 
-<a href="https://leetcode.com/u/tanmaylyn285/">
+<a href="https://leetcode.com/u/CUfjYfwBmH">
 <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
 </a>
 
