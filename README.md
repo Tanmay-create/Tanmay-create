@@ -135,12 +135,21 @@ A MERN-based real-time communication platform designed for instant messaging and
 
 I regularly work on **Data Structures & Algorithms** to strengthen my problem-solving skills and prepare for technical interviews.
 
-<!-- LeetCode badge intentionally kept non-clickable because LeetCode's own README renderer redirects self-profile links to /404. -->
-<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
+<p align="left">
 
-[![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/tanmaylyn285)
+<a href="https://leetcode.com/u/CUfjYfwBmH/" target="_blank">
+  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
+</a>
 
-[![NeetCode](https://img.shields.io/badge/NeetCode-111111?style=for-the-badge&logo=leetcode&logoColor=white)](https://neetcode.io/practice/practice/neetcode150)
+<a href="https://codeforces.com/profile/tanmaylyn285" target="_blank">
+  <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces" />
+</a>
+
+<a href="https://neetcode.io/practice/practice/neetcode150" target="_blank">
+  <img src="https://img.shields.io/badge/NeetCode-111111?style=for-the-badge&logo=leetcode&logoColor=white" alt="NeetCode" />
+</a>
+
+</p>
 
 ### 📚 Current DSA Focus
 
