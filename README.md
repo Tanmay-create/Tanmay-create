@@ -135,21 +135,11 @@ A MERN-based real-time communication platform designed for instant messaging and
 
 I regularly work on **Data Structures & Algorithms** to strengthen my problem-solving skills and prepare for technical interviews.
 
-<p align="left">
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/CUfjYfwBmH/)
 
-<a href="https://leetcode.com/u/CUfjYfwBmH">
-<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
-</a>
+[![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/tanmaylyn285)
 
-<a href="https://codeforces.com/profile/tanmaylyn285">
-<img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" />
-</a>
-
-<a href="https://neetcode.io/practice/practice/neetcode150">
-<img src="https://img.shields.io/badge/NeetCode-111111?style=for-the-badge&logo=leetcode&logoColor=white" />
-</a>
-
-</p>
+[![NeetCode](https://img.shields.io/badge/NeetCode-111111?style=for-the-badge&logo=leetcode&logoColor=white)](https://neetcode.io/practice/practice/neetcode150)
 
 ### 📚 Current DSA Focus
 
